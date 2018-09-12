@@ -855,7 +855,8 @@ EXCLUDE_PATTERNS       = */tools/* \
                          */nanostack/sal-stack-nanostack-eventloop/* \
                          */ble/generic/* \
                          */ble/pal/* \
-                         */components/* \
+                         */components/802.15.4_RF/* \
+                         */components/wifi/* \
                          */UNITTESTS/*
 
 # The EXCLUDE_SYMBOLS tag can be used to specify one or more symbol names
